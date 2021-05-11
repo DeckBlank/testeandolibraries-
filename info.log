@@ -1,0 +1,22 @@
+[2021-05-10T20:10:59.965] [FATAL] default - ReferenceError: res is not defined
+    at C:\Users\Jose\Desktop\gzip\src\index.js:41:9
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\gzip\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Jose\Desktop\gzip\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Jose\Desktop\gzip\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\gzip\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Jose\Desktop\gzip\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Jose\Desktop\gzip\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Jose\Desktop\gzip\node_modules\express\lib\router\index.js:275:10)
+    at compression (C:\Users\Jose\Desktop\gzip\node_modules\compression\index.js:220:5)
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\gzip\node_modules\express\lib\router\layer.js:95:5)
+[2021-05-10T20:11:23.111] [FATAL] default - ReferenceError: nodefined is not defined
+    at C:\Users\Jose\Desktop\gzip\src\index.js:41:18
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\gzip\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Jose\Desktop\gzip\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Jose\Desktop\gzip\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\gzip\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Jose\Desktop\gzip\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Jose\Desktop\gzip\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Jose\Desktop\gzip\node_modules\express\lib\router\index.js:275:10)
+    at compression (C:\Users\Jose\Desktop\gzip\node_modules\compression\index.js:220:5)
+    at Layer.handle [as handle_request] (C:\Users\Jose\Desktop\gzip\node_modules\express\lib\router\layer.js:95:5)
